@@ -1,1 +1,2 @@
 # Extraction-of-World-Development-Indicator-Data
+If you intend to utilize data from the 'World Development Indicator (WDI),' the provided codes will be beneficial for your use. I have specifically extracted data for chosen countries, and you have the flexibility to modify the country names. All indicators from the WDI are included in this extraction. You can opt to work with a subset of indicators by removing unnecessary data. I recommend organizing the data initially and subsequently eliminating the indicators that are not required.
